@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Java, Xcode**
 
-- 📫 How to reach me **https://github.com/RizaelJunior**
+- 📫 How to reach me **https://www.linkedin.com/in/rizael-j%C3%BAnior-5a6452238/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
