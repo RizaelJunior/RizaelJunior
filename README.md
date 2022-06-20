@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/rizael-j%C3%BAnior-5a6452238/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/rizael-j%C3%BAnior-5a6452238/</h3>
 <p align="left">
 </p>
 
