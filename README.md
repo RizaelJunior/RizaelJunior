@@ -1,6 +1,6 @@
 ![banner](https://cdn.pixabay.com/photo/2018/09/27/09/22/web-3706563_960_720.jpg)
 
-### Seether - Rock On!!!
+### Seether - Rock On!!
 
 <h1 align="center">Hi 👋, I'm Rizael Junior</h1>
 <h3 align="center">A passionate Mobile developer from Brazil.</h3>
